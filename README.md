@@ -1,2 +1,2 @@
 # Quantum-Computation
-It contains quantum algorithms and code to run own quantum computers.
+It contains code of some quantum algorithm learned in course.
